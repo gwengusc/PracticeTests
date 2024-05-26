@@ -1,0 +1,13 @@
+{
+  "ELASTIC_BEANSTALK_DOMAIN": "elasticbeanstalk.com",
+  "ENV": {
+    "account": "757915757837",
+    "region": "us-west-2"
+  },
+  "ALIAS": "",
+  "SERVER_URL_CNAME_PREFIXES": {
+    "dev": "practice-tests-server-dev",
+    "test": "practice-tests-server-test",
+    "prod": "practice-tests-server-prod"
+  }
+}
